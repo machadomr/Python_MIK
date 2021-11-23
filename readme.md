@@ -16,6 +16,7 @@ Week # | Content | Notebook access
 3   | Loops and Iteration                     | [Week 3 - Notebook 1](https://github.com/machadomr/Python_MIK/blob/main/MIK_Python_Week3/Week3_Notebook1.ipynb)
 4   | Files                     | [Week 4 - Notebook 1](https://github.com/machadomr/Python_MIK/blob/main/MIK_Python_Week4/Week4_Notebook1.ipynb)
 4   | Strings                     | [Week 4 - Notebook 2](https://github.com/machadomr/Python_MIK/blob/main/MIK_Python_Week4/Week4_Notebook2.ipynb)
+5   | Lists and Tuples                     | [Week 5 - Notebook 2](https://github.com/machadomr/Python_MIK/tree/main/MIK_Python_Week5)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
